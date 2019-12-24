@@ -1,3 +1,2 @@
-pint("kapil laudu")
-pint("kapil laudu ek number ka ")
+print("kapil laudu
 Finished: SUCCESS
