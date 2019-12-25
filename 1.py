@@ -1,3 +1,3 @@
-print("kapil laudu
+print("kapil")
 Finished: SUCCESS
 ()
